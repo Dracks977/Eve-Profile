@@ -8,8 +8,9 @@ Replace selected profile by main profile
 
 Auto-Upload (only on windows for moment)
 
-### Planned improvement
 Restorate backuped file
+
+### Planned improvement
 
 Sisi profile
 
